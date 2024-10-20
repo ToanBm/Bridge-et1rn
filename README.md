@@ -10,10 +10,10 @@
 git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
 ```
 ```
-cd Bridge-et1rn
+cd Bridge-et1rn/updatev6
 ```
 ```
-cd updatev6
+nano pvkeylist.txt
 ```
 ```
 screen -S Bridge-et1rn
