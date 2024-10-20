@@ -19,7 +19,7 @@ nano pvkeylist.txt
 screen -S Bridge-et1rn
 ```
 ```
-python t1rnmultiv6_auto.py
+python3 t1rnmultiv6_auto.py
 ```
 - To exit screen, Ctrl A, D
 
