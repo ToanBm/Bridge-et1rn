@@ -1,5 +1,29 @@
 # T3RN Incentivized Testnet
-# Earn BRN tokens on every swap/bridge
+## Earn BRN tokens on every swap/bridge
+============================================================
+## Lastest Update
+
+- Make sure there is ETH on BASE & OP Sepolia.
+- Set Min bridge 0.1 ETH, Max bridge 0.11 ETH
+
+```
+git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
+```
+```
+cd Bridge-et1rn
+```
+```
+cd updatev6
+```
+```
+screen -S Bridge-et1rn
+```
+```
+python t1rnmultiv6_auto.py
+```
+- To exit screen, Ctrl A, D
+
+---------------------------------------------------------------------------------------------------------------------
 # SCREENSHOT
 ![airdopfailyidn](https://github.com/user-attachments/assets/9565fc71-0173-45f7-9147-64f86c6b452f)
 
@@ -295,24 +319,4 @@ cd manual
 ```
 
 
-============================================================
-# UPDATEV6
 
-- sekarang butuh eth base, op sepolia+brn testnet
-- min bridge 0.1 eth
-
-```
-git clone https://github.com/AirdropFamilyIDN-V2-0/Bridge-et1rn.git
-```
-```
-cd Bridge-et1rn
-```
-```
-cd updatev6
-```
-```
-python t1rnmultiv6_auto.py
-```
-```
-python t1rnmultiv6_auto_a1.py
-```
